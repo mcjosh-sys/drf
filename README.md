@@ -58,7 +58,7 @@ Drf is a Django REST Framework example project that serves as an API backend for
 
    ```plaintext
    DEBUG=True
-   ALGOLIA_API_SECRETS
+   ALGOLIA_API_KEY=
    ```
 
 3. Update the project settings in `backend/settings.py` to suit your needs.
